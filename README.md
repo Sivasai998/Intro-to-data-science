@@ -1,2 +1,2 @@
-# Intro-to-data-science
+# Introduction-to-Data-Science-Assignments
 
